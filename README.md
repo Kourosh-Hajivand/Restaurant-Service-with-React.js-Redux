@@ -2,11 +2,11 @@
 
 ----For Using This App Do This Step ------
 
-----In Terminall Write npm install ------ For instaling All Dependency
+----In Terminall write (npm install) ------ For instaling All Dependency
 
--------Then Write Npm start ------- For Setup in localhost
+-------Then Write (npm start) ------- For Setup in localhost
 
------- You Can Use it !!!!---------------
+
 
 ---
 
